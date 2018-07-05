@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-asdf
-=======
-zxczxczczxczxc
->>>>>>> test-branch
